@@ -1,0 +1,15 @@
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\bin\Debug\net6.0\Exzamle001.exe
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\bin\Debug\net6.0\Exzamle001.deps.json
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\bin\Debug\net6.0\Exzamle001.runtimeconfig.json
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\bin\Debug\net6.0\Exzamle001.dll
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\bin\Debug\net6.0\Exzamle001.pdb
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.csproj.AssemblyReference.cache
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.AssemblyInfoInputs.cache
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.AssemblyInfo.cs
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.csproj.CoreCompileInputs.cache
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.dll
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\refint\Exzamle001.dll
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.pdb
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\Exzamle001.genruntimeconfig.cache
+C:\Users\ara22\Documents\Report\Exzamples\Exzamle001\obj\Debug\net6.0\ref\Exzamle001.dll
